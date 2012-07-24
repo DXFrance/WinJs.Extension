@@ -9,8 +9,8 @@
     <ProjectGuid>{5B3840B9-6C56-456D-8354-2F87E291847B}</ProjectGuid>
     <OutputType>winmdobj</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>winJS.Extension.Gaming</RootNamespace>
-    <AssemblyName>winJS.Extension.Gaming</AssemblyName>
+    <RootNamespace>WinJS.Extension.Gaming</RootNamespace>
+    <AssemblyName>WinJS.Extension.Gaming</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -100,9 +100,16 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <PRIResource Include="strings\en-us\resources.resjson" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="js\WinJS.Extension.Gaming.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="css\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
     <VisualStudioVersion>11.0</VisualStudioVersion>

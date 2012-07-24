@@ -10,7 +10,7 @@
     <default>
       <qualifier name="language" value="en-US" />
     </default>
-    <indexer-config type="RESW" convertDotsToSlashes="true" initialPath="winJS.Extension.Gaming" />
+    <indexer-config type="RESW" convertDotsToSlashes="true" initialPath="WinJS.Extension.Gaming" />
     <indexer-config type="RESJSON" />
     <indexer-config type="RESFILES" qualifierDelimiter="." />
   </index>

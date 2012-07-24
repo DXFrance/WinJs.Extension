@@ -5,7 +5,7 @@
 /// <reference path="ms-appx://Microsoft.WinJS.1.0.RC/js/base.js" />
 /// <reference path="ms-appx://Microsoft.WinJS.1.0.RC/js/ui.js" />
 
-(function (undefined) {
+(function () {
     "use strict";
 
     // Exports
