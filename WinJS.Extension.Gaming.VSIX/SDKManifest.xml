@@ -7,5 +7,7 @@
   AppliesTo = "WindowsAppContainer + (JavaScript)"
   ReferenceManagerEnumeration = "Files">
     <File Content="js\WinJS.Extension.Gaming.js" />
+    <File Content="html\AboutUI.html" />
+    <File Content="html\SoundsUI.html" />
     <DependsOn Identity = "Microsoft.WinJS.1.0.RC, Version=1.0"/>
 </FileList>

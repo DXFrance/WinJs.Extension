@@ -53,6 +53,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\WinJS.Extension.Gaming\html\AboutUI.html">
+      <Link>Redist\CommonConfiguration\neutral\WinJS.Extension.Gaming\html\AboutUI.html</Link>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="..\WinJS.Extension.Gaming\html\SoundsUI.html">
+      <Link>Redist\CommonConfiguration\neutral\WinJS.Extension.Gaming\html\SoundsUI.html</Link>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="..\winJS.Extension.Gaming\js\WinJS.Extension.Gaming.js">
       <Link>Redist\CommonConfiguration\neutral\WinJS.Extension.Gaming\js\WinJS.Extension.Gaming.js</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
@@ -60,6 +68,7 @@
     <Content Include="SDKManifest.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
+      <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
