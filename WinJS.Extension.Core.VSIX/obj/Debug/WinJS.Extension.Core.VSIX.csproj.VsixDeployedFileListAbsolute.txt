@@ -1,0 +1,5 @@
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Core.VSIX\1.0\\extension.vsixmanifest
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Core.VSIX\1.0\\SDKManifest.xml
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Core.VSIX\1.0\Redist\CommonConfiguration\neutral\WinJS.Extension.Core\\WinJS.Extension.Core.pri
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Core.VSIX\1.0\Redist\CommonConfiguration\neutral\WinJS.Extension.Core\js\\WinJS.Extension.Core.js
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Core.VSIX\1.0\Redist\CommonConfiguration\neutral\WinJS.Extension.Core\js\WinJS.Extension.Core.js

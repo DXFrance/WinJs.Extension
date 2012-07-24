@@ -1,0 +1,16 @@
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\winJS.Extension.Gaming.winmd
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\winJS.Extension.Gaming.winmdobj
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\winJS.Extension.Gaming.compile.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\bin\Debug\winJS.Extension.Gaming.winmd
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\bin\Debug\winJS.Extension.Gaming.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\bin\Debug\winJS.Extension.Gaming.pri
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\winJS.Extension.Gaming.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\priconfig.xml.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\layout.resfiles.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\resources.resfiles.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\pri.resfiles.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\priconfig.xml
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\layout.resfiles
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\resources.resfiles
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\pri.resfiles
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\winJS.Extension.Gaming\obj\Debug\LanguageQualifiers.txt

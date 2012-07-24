@@ -1,0 +1,6 @@
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core.VSIX\bin\Debug\SDKManifest.xml
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core.VSIX\obj\Debug\WinJS.Extension.Core.VSIX.dll
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core.VSIX\obj\Debug\WinJS.Extension.Core.VSIX.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core.VSIX\bin\Debug\WinJS.Extension.Core.VSIX.vsix
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core.VSIX\bin\Debug\extension.vsixmanifest
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core.VSIX\obj\Debug\extension.vsixmanifest

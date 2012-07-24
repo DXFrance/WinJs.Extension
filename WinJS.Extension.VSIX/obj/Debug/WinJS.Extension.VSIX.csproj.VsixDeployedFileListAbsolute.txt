@@ -1,0 +1,2 @@
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension\1.0\\extension.vsixmanifest
+C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension\1.0\\WinJS.Extension.Core.VSIX.vsix

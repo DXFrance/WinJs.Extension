@@ -64,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WinJS.Extension.Core\WinJS.Extension.Core.csproj" />
-    <ProjectReference Include="..\winJS.Extension.Gaming\WinJS.Extension.Gaming.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

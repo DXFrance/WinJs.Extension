@@ -1,0 +1,8 @@
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\bin\Debug\WinJS.Extension.Core.winmd
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\bin\Debug\WinJS.Extension.vsix
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\bin\Debug\extension.vsixmanifest
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\obj\Debug\WinJS.Extension.csprojResolveAssemblyReference.cache
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\obj\Debug\WinJS.Extension.dll
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\obj\Debug\WinJS.Extension.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\obj\Debug\extension.vsixmanifest
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension\bin\Debug\js\WinJS.Extension.Core.js

@@ -1,0 +1,16 @@
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\WinJS.Extension.Core.winmd
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\WinJS.Extension.Core.winmdobj
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\WinJS.Extension.Core.compile.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\bin\Debug\WinJS.Extension.Core.winmd
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\bin\Debug\WinJS.Extension.Core.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\bin\Debug\WinJS.Extension.Core.pri
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\WinJS.Extension.Core.pdb
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\priconfig.xml.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\layout.resfiles.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\resources.resfiles.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\pri.resfiles.intermediate
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\priconfig.xml
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\layout.resfiles
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\resources.resfiles
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\pri.resfiles
+C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\obj\Debug\LanguageQualifiers.txt
