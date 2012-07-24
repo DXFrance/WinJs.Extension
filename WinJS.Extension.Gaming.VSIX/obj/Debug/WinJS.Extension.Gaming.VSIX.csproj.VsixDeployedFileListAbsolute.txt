@@ -1,3 +1,0 @@
-C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Gaming.VSIX\1.0\\extension.vsixmanifest
-C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Gaming.VSIX\1.0\Redist\CommonConfiguration\neutral\WinJS.Extension.Gaming\js\WinJS.Extension.Gaming.js
-C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DPEFrance\WinJS.Extension.Gaming.VSIX\1.0\\SDKManifest.xml

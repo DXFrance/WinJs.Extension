@@ -1,6 +1,0 @@
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Gaming.VSIX\bin\Debug\SDKManifest.xml
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Gaming.VSIX\bin\Debug\WinJS.Extension.Gaming.VSIX.vsix
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Gaming.VSIX\obj\Debug\WinJS.Extension.Gaming.VSIX.dll
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Gaming.VSIX\obj\Debug\WinJS.Extension.Gaming.VSIX.pdb
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Gaming.VSIX\obj\Debug\extension.vsixmanifest
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Gaming.VSIX\bin\Debug\extension.vsixmanifest

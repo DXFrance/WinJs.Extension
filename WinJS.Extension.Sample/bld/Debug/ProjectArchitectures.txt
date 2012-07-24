@@ -1,2 +1,0 @@
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Core\WinJS.Extension.Core.csproj;neutral
-C:\Users\davrous\Documents\GitHub\WinJs.Extension\WinJS.Extension.Sample\WinJS.Extension.Sample.jsproj;neutral
