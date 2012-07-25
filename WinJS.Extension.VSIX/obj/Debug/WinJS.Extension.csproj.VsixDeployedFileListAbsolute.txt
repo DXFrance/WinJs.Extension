@@ -1,3 +1,0 @@
-C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Nous\WinJS.Extension\1.0\\extension.vsixmanifest
-C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Nous\WinJS.Extension\1.0\\WinJS.Extension.Core.winmd
-C:\Users\davrous\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Nous\WinJS.Extension\1.0\js\\WinJS.Extension.Core.js
