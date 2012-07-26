@@ -42,6 +42,14 @@
         BindSettings: BindSettings
     });
 
+    function HandleMusicToggle(e) {
+        console.log(e);
+    }
+
+    WinJS.Namespace.define("WinJS.Extension.Gaming", {
+        HandleMusicToggle: HandleMusicToggle
+    });
+
     // constructor function
     function initSettings(type) {
         if (type) {
