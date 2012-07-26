@@ -1,4 +1,5 @@
-﻿/*!
+﻿
+/*!
   Library built by Pierre Lagarde & David Rousset from Microsoft France
   This library is supported for use in Windows Metro Style Apps only.
 */
